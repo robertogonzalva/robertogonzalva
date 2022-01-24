@@ -7,7 +7,7 @@ I'm a Junior Developer. I will be working in frontend and backend projects to im
 - **💞️ I like** GitHub, JavaScript, Java, HTML, CSS, PHP, ReactJS, Tailwind CSS, Firebase, Mysql, Supabase, Vaadin, Spring, Laravel...
 
 ## 📫 Contact me
-If you are interested you can reach by email robertogonzalva@gmail.com
+If you are interested you can reach me by email robertogonzalva@gmail.com
 
 <!--- 
 
