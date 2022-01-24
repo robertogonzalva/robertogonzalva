@@ -1,6 +1,6 @@
 ## 👋 Hi!
 
-I'm a Junior Developer. I will work in frontend and backend projects to improve my Full-Stack skills.
+I'm a Junior Developer. I will be working in frontend and backend projects to improve my Full-Stack skills.
 
 - **👀 I'm interested** in some projects how API's, design-development, UX, DX, SEO... And similar projects to everything that competes with web technology.
 
