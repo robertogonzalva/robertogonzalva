@@ -21,4 +21,4 @@ With 3 years of professional experience, I'm passionate about blending cutting-e
 Constantly learning and innovating at the intersection of web dev and AI. Let's push the boundaries of what's possible!
 
 ## 📫 Let's Connect
-Got an exciting project or idea? Reach out on Twitter. Let's build the future of tech together! 💻🤖✨
+Got an exciting project or idea? Reach out on Twitter [@robertogonzalva](https://twitter.com/robertogonzalva). Let's build the future of tech together! 💻🤖✨
