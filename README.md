@@ -1,6 +1,6 @@
 # 👋🏽 Hi there! I'm a Full-Stack AI Enthusiast
 
-With 3 years of professional experience, I'm passionate about blending cutting-edge web development with the power of AI. 🚀🧠
+I'm passionate about blending cutting-edge web development with the power of AI. 🚀🧠
 
 ## 💻 What I Do
 - 🔥 Build smart, scalable web and mobile apps
