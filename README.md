@@ -1,24 +1,28 @@
-# 👋🏽 Hi there! I'm a Full-Stack AI Enthusiast
+# Software Engineer - Product Engineering & Applied AI
 
-I'm passionate about blending cutting-edge web development with the power of AI. 🚀🧠
+I design, build, and scale software that turns complex ideas into clear, reliable products. I keep a research backlog of new technologies, projects, and tools—and adopt them when they improve developer velocity or user experience.
 
-## 💻 What I Do
-- 🔥 Build smart, scalable web and mobile apps
-- 🌟 Explore AI integration in software solutions
-- 🎨 Create intuitive interfaces for complex systems
+## What I Do
+- Ship production systems from architecture to delivery with measurable outcomes
+- Apply AI/ML where it adds real value (recommendations, assistants, automation)
+- Translate complex requirements into intuitive, performant interfaces
+- Prioritize reliability, accessibility, and maintainability
 
-## 🛠️ My Tech Stack
-- TypeScript, Next.js, Tailwind CSS, Expo, MongoDB
-- AI tools: TensorFlow.js, Hugging Face Transformers, PyTorch
-- Always learning and adopting new technologies!
+## Interests
+- AI-enhanced applications and intelligent APIs
+- Developer experience, performance budgets, and observability
+- Rapid evaluation of frameworks, tooling, and platform capabilities
 
-## 👀 I'm Excited About
-- 🤖 AI-powered web and mobile applications
-- 🌐 Intelligent APIs and adaptive UIs
-- 🚀 Any disruptive tech reshaping the digital world
+## Toolchain
+- **Core:** TypeScript, Next.js, Tailwind CSS, Expo, MongoDB
+- **AI/ML:** TensorFlow.js, Hugging Face Transformers, PyTorch
+- **Plus:** testing, CI/CD, cloud deployment, monitoring
 
-## 🌱 Always Growing
-Constantly learning and innovating at the intersection of web dev and AI. Let's push the boundaries of what's possible!
+## Principles
+- Evidence over hype: choose tools based on impact, not trend
+- Tight feedback loops: instrumentation first, iterate with data
+- Clarity by default: readable code, explicit contracts, strong ergonomics
 
-## 📫 Let's Connect
-Got an exciting project or idea? Reach out on Twitter [@robertogonzalva](https://twitter.com/robertogonzalva). Let's build the future of tech together! 💻🤖✨
+
+## Contact
+Have an idea worth exploring? Message me on X/Twitter: [@robertogonzalva](https://x.com/robertogonzalva).
