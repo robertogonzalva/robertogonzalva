@@ -13,11 +13,6 @@ I design, build, and scale software that turns complex ideas into clear, reliabl
 - Developer experience, performance budgets, and observability
 - Rapid evaluation of frameworks, tooling, and platform capabilities
 
-## Toolchain
-- **Core:** TypeScript, Next.js, Tailwind CSS, Expo, MongoDB
-- **AI/ML:** TensorFlow.js, Hugging Face Transformers, PyTorch
-- **Plus:** testing, CI/CD, cloud deployment, monitoring
-
 ## Principles
 - Evidence over hype: choose tools based on impact, not trend
 - Tight feedback loops: instrumentation first, iterate with data
